@@ -14,10 +14,12 @@ public class Main {
     public static void main(String[] args) {
         ApplicationContext ctx = new FileSystemXmlApplicationContext("src/main/resources/spring-context.xml");
 
-        //Kauppa kauppa = new Kauppa();
-        Kirjanpito kirjanpito = new Kirjanpito();
-        Kauppa kauppa = ctx.getBean(Kauppa.class);
+        Kirjanpito kirjanpito = (Kirjanpito) ctx.getBean("kirjanpito");
+        
+        //Kauppa kauppa = ctx.getBean(Kauppa.class);
+        Kauppa kauppa = (Kauppa) ctx.getBean("kauppa");
 
+        
         //Kauppa kauppa = new Kauppa(new Varasto(kirjanpito), new Pankki(kirjanpito), new Viitegeneraattori() );
         // kauppa hoitaa yhden asiakkaan kerrallaan seuraavaan tapaan:
         kauppa.aloitaAsiointi();
@@ -36,7 +38,7 @@ public class Main {
         kauppa.tilimaksu("Arto Vihavainen", "3425-1652");
 
         // kirjanpito
-        for (String tapahtuma : ctx.getBean(Kirjanpito.class).getTapahtumat()) {
+        for (String tapahtuma : kirjanpito.getTapahtumat()) {
             System.out.println(tapahtuma);
         }
     }
