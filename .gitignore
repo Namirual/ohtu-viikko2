@@ -1,0 +1,16 @@
+#justmacintoshthings
+.DS_Store
+
+# repositorion juurihakemistossa olevat tiedostot, joiden pääte on tmp 
+/*.tmp
+
+# hakemisto jonka nimi on build ignoroidaan
+/build/
+
+# gradlen cache
+/.nb-gradle/
+/**/.gradle/
+/RiippuvuuksienInjektointi1/.nb-gradle/
+/RiippuvuuksienInjektointi1/build/
+/NhlStatistics1/build/
+/NhlStatistics1/.nb-gradle/
