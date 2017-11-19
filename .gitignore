@@ -8,12 +8,7 @@
 /build/
 
 # gradlen cache
-/.nb-gradle/
+/**/.nb-gradle/
 /**/.gradle/
-/RiippuvuuksienInjektointi1/.nb-gradle/
-/RiippuvuuksienInjektointi1/build/
-/NhlStatistics1/build/
-/NhlStatistics1/.nb-gradle/
-/Verkkokauppa1/build/
+/**/build/
 /Verkkokauppa1/private/
-/Verkkokauppa1/.nb-gradle/
