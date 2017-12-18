@@ -1,0 +1,7 @@
+# Referaatti: Ohjelmistoala ja ryhmätyöskentely
+
+Kenny Heinosen kandidaattityö käsittelee persoonallisuustyyppien vaikutusta ryhmissä tehtyyn ohjelmistotuotantoon. Projektit koostuvat useista eri työvaiheista, joissa menestyvät parhaiten persoonallisuuksiltaan ja taipumuksiltaan erilaiset työntekijät. Persoonallisuus vaikuttaa luonnollisesti myös ryhmädynamiikkaan, jolla on merkittävä vaikutus projektin menestykseen.
+
+Persoonallisuustyyppejä luokitellaan työssä Myers-Briggs -tyyppi-indikaattorin avulla, mitä pidin itse yllättävänä sikäli, että käsittääkseni psykologit pitävät tyypittelyä huonosti ennustavana. Myös työssä viitatuissa tutkimuksissa eri persoonallisuustyyppien sopivuudesta eri työvaiheisiin näyttää olevan osin ristiriitaisia tuloksia. Niin tai näin, perusajatus, että ryhmä tarvitsee erilaisia työntekijöitä monipuolisten ratkaisujen tuottamiseen on luonteva.
+
+Ryhmätyöskentely on myös taito, ja työssä käydään läpi harjoitteita ja strategioita, joilla ryhmätyöskentelyä voidaan insentivoida ja opettaa. Kiinnostavaa on mielestäni pohdinta sitä, mitkä seikat johtavat ylipäätään siihen, että yksilöt toimivat huonosti ryhmissä; kyse ei ole ainoastaan yksilön ominaisuuksista vaan koko ryhmän dynamiikasta, jota muuttamalla suurempi osa ryhmän jäsenistä saa aikaan tuloksia työssä. Tässä kohdassa työ tarjoaa kiinnostavan vertailukohdan Scrumiin, jossa luotetaan pääosin tiimin itseorganisoitumiseen; toimivan ryhmädynamiikan tuottaminen voi kuitenkin vaatia aktiivisia toimenpiteitä.
